@@ -1,31 +1,41 @@
 # APPEXC Global
 
-A global digital entertainment platform providing game services, digital products, payment solutions, and player support for users worldwide.
+APPEXC Global is a digital entertainment platform providing gaming services, digital products, payment solutions, and player support for users worldwide.
 
-APPEXC helps gamers and digital entertainment users access popular games, live streaming platforms, and digital services with convenient and reliable solutions.
+We connect global users with reliable digital entertainment services, supporting popular mobile games, gaming products, and online digital platforms.
 
 ---
 
-# Our Services
+## About APPEXC
 
-## Gaming Services
+APPEXC focuses on providing convenient and reliable digital services for gamers and entertainment users around the world.
 
-APPEXC provides comprehensive gaming solutions, including:
+Our platform supports game-related services, digital content solutions, and entertainment ecosystem products.
+
+---
+
+## Our Services
+
+### Gaming Services
 
 - Game top-up services
 - Digital game products
-- Virtual currency services
-- Game resource information
 - Player support solutions
-- Gaming community resources
+- Gaming information services
+- Mobile game service solutions
+
+### Digital Entertainment Services
+
+- Live streaming platform services
+- Digital content products
+- Online entertainment solutions
+- Payment and digital service solutions
 
 ---
 
-# Supported Games
+## Supported Games
 
-APPEXC supports many popular games worldwide, including:
-
-## Mobile Games
+APPEXC supports a wide range of popular mobile games, including:
 
 - Honor of Kings
 - Genshin Impact
@@ -34,31 +44,24 @@ APPEXC supports many popular games worldwide, including:
 - Delta Force
 - Eggy Party
 - Game for Peace
-- PUBG Mobile
 - Arknights
 - Honkai Impact 3rd
-- Onmyoji
 - Identity V
-- White Blossom Corridor
-- Star Traveler
-- Harry Potter: Magic Awakened
-- Werewolf
+- Onmyoji
+- Whiteout Survival
 - Once Human
+- Harry Potter: Magic Awakened
 - Justice Mobile
 - Clash of Clans
 - Three Kingdoms Kill
 
-More games are continuously being added.
+More popular games are continuously being supported.
 
 ---
 
-# Digital Entertainment Platforms
+## Supported Digital Platforms
 
-APPEXC supports various digital entertainment platforms and online services.
-
-## Live Streaming Platforms
-
-Supported platforms include:
+APPEXC provides digital services for multiple entertainment platforms, including:
 
 - Douyin
 - Kuaishou
@@ -68,60 +71,28 @@ Supported platforms include:
 - Bilibili
 - YY Live
 - LOOK Live
-- Hixiu Live
-- Huajiao Live
 - KilaKila
-- Laixiu Live
-- Jiuxiu Live
+- Huajiao Live
+- LaiXiu Live
+- JiuXiu Live
 - Paopao Live
-
----
-
-# Digital Services
-
-APPEXC provides digital solutions for:
-
-- Game top-up services
-- Virtual items and digital goods
-- Membership services
-- Live streaming products
-- Social entertainment services
-- Online community services
-- Digital content solutions
-
-Supported digital categories include:
-
-- Gaming platforms
-- Streaming platforms
-- Social applications
-- Entertainment memberships
-- Virtual products
 
 More platforms and services are continuously expanding.
 
 ---
 
-# Why APPEXC
+## Our Vision
 
-APPEXC focuses on connecting global users with digital entertainment services through:
-
-- Fast and convenient access
-- Reliable digital solutions
-- Wide platform support
-- Professional customer assistance
-
-We continue expanding our ecosystem to support more games, platforms, and digital products worldwide.
+Building a reliable global digital entertainment service platform that connects users, games, and digital experiences.
 
 ---
 
-# About APPEXC
+## Contact
 
-APPEXC Global is dedicated to providing global gamers and digital entertainment users with convenient access to digital services.
-
-Our goal is to build a reliable bridge between users and digital entertainment platforms around the world.
-
----
-
-# Website
+Website:
 
 https://appexc.com
+
+Email:
+
+giaotall68@gmail.com
